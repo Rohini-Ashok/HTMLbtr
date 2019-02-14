@@ -1,0 +1,44 @@
+Amcat Syllabus
+----------------------
+Syllabus for Quantitative Ability is:
+------------
+
+Basics of Algebra.
+Fractions & Decimals.
+Least Common Multiple (L C M) & Highest Common Fraction (H C F).
+Numerical problems.
+Logarithms & Powers.
+General Maths.
+Permutations & Combinations.
+Problems on Time and work, Time and distance, Ages.
+Problems on Calculation of Profit & Loss and Interest.
+Problems on calculation of Percentages.
+Syllabus for Logical Ability (Reasoning) is:
+
+Questions on Coding & Decoding.
+Puzzles and Sequence of Logical word.
+Selection Decision Tables.
+Reasoning & Critical reasoning.
+Blood Relations Reasoning.
+Recognition of Coding Pattern (Non-verbal Reasoning).
+Objective Reasoning.
+Data Sufficiency, etc…..,
+Optional Modules For Engineering Candidates :
+Computer Science Engineering & IT
+Civil Engineering
+Mechanical Engineering
+Electronics & Communication Engineering
+Electrical Engineering.
+The Optional Modules for MBA Graduates:
+HR(Human Resource).
+Finance.
+Marketing.
+Operations.
+Basic Statistics,  etc…..,
+The Optional Modules for Graduates:
+Finance and Accounting.
+Computer Programming.
+Biology.
+Pharma.
+Physics.
+Chemistry, etc…
